@@ -9,3 +9,4 @@ func main() {
   migration.Migrate()
   crud.Create()
 }
+
